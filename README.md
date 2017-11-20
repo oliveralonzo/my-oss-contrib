@@ -8,28 +8,28 @@ Following [their steps](https://developer.mozilla.org/en-US/docs/Mozilla/Develop
 
 ## Documentation
 
-![Step 1](images/1)
+![Step 1](images/1.png)
 First, I found the bugs list.
 
-![Step 2](images/2)
+![Step 2](images/2.png)
 I then found the specific bug that wasn't taken and I could solve.
 
-![Step 3](images/3)
+![Step 3](images/3.png)
 I read the description of the problem and solution by the mentor.
 
-![Step 4](images/4)
+![Step 4](images/4.png)
 I cloned the repo locally.
 
-![Step 5](images/5)
+![Step 5](images/5.png)
 After fixing some errors that popped up, this is minute 87 of the build process!
 
-![Step 6](images/6)
+![Step 6](images/6.png)
 I found the files with the issues.
 
-![Step 7](images/7)
+![Step 7](images/7.png)
 I fixed the issue in privacy.js
 
-![Step 8](images/8)
+![Step 8](images/8.png)
 I fixed the issue in containers.js
 
 As I'm writing this the build is at minute 94 so I haven't been able to test my code, but as soon as that's over, I will be uploading a patch to Bugzilla to have it reviewed :)
@@ -41,4 +41,4 @@ I followed [the guide](https://github.com/collections/choosing-projects) by firs
 
 ## Code changeMasterPassword
 
-My contribution was relatively small, but hopefully it makes it to production! It is a wrong action for a right click button. The code changes can be seen in [this commit](). They will be sure that I right click doesn't open the link.
+My contribution was relatively small, but hopefully it makes it to production! It is a wrong action for a right click button. The code changes can be seen in [this commit](https://github.com/oliveralonzo/my-oss-contrib/commit/2ba68dcb524a931928299161f47fbb59290a4742). They will be sure that I right click doesn't open the link.
