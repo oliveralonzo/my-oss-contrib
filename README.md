@@ -41,7 +41,6 @@ I committed my code and pushed for review.
 ![Step 11](images/11.png)  
 A comment was automatically added for review! Someone else apparently decided to join in, we'll see what happens with that :sweat_smile:.
 
-
 ## Process
 
 I followed [the guide](https://github.com/collections/choosing-projects) by first fixing a really [minor issue](https://github.com/google/omaha/pull/124) on Google's Omaha project. Then, I read the rest of the text and started to dig a bit deeper.
