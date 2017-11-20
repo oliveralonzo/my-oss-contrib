@@ -39,6 +39,6 @@ As I'm writing this the build is at minute 94 so I haven't been able to test my 
 
 I followed [the guide](https://github.com/collections/choosing-projects) by first fixing a really [minor issue](https://github.com/google/omaha/pull/124) on Google's Omaha project. Then, I read the rest of the text and started to dig a bit deeper.
 
-## Code changeMasterPassword
+## Code Change
 
 My contribution was relatively small, but hopefully it makes it to production! It is a wrong action for a right click button. The code changes can be seen in [this commit](https://github.com/oliveralonzo/my-oss-contrib/commit/2ba68dcb524a931928299161f47fbb59290a4742). They will be sure that I right click doesn't open the link.
