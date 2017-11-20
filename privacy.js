@@ -114,16 +114,22 @@ var gPrivacyPane = {
       gPrivacyPane.updatePrivacyMicroControls();
       gPrivacyPane.updateAutostart();
     });
-    setEventListener("historyRememberClear", "click", function() {
-      gPrivacyPane.clearPrivateDataNow(false);
+    setEventListener("historyRememberClear", "click", function(event) {
+      if (event.button == 0) {
+          gPrivacyPane.clearPrivateDataNow(false);
+      }
       return false;
     });
     setEventListener("historyRememberCookies", "click", function() {
-      gPrivacyPane.showCookies();
+      if (event.button == 0) {
+          gPrivacyPane.showCookies();
+      }
       return false;
     });
     setEventListener("historyDontRememberClear", "click", function() {
-      gPrivacyPane.clearPrivateDataNow(true);
+      if (event.button == 0) {
+          gPrivacyPane.clearPrivateDataNow(true);
+      }
       return false;
     });
     setEventListener("privateBrowsingAutoStart", "command",
