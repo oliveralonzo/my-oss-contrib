@@ -19,7 +19,7 @@ let gContainersPane = {
 
     document.getElementById("backContainersLink").addEventListener("click", function(event) {
       if (event.button == 0) {
-          gotoPref("general");
+        gotoPref("general");
       }
     });
 

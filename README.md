@@ -39,7 +39,13 @@ I rebuilt the browser and ran it for testing. It worked!
 I committed my code and pushed for review.
 
 ![Step 11](images/11.png)  
-A comment was automatically added for review! Someone else apparently decided to join in, we'll see what happens with that :sweat_smile:.
+A comment was automatically added for review! Someone else apparently decided to join in :sweat_smile:.
+
+![Step 12](images/12.png)  
+I was assigned the bug and received a review request to fix the indentation!
+
+![Step 13](images/13.png)  
+I fixed the bug and pushed. My contribution has been accepted :muscle:
 
 ## Process
 
@@ -47,4 +53,4 @@ I followed [the guide](https://github.com/collections/choosing-projects) by firs
 
 ## Code changeMasterPassword
 
-My contribution was relatively small, but hopefully it makes it to production! It is a wrong action for a right click button. The code changes can be seen in the last few commits. They will be sure that I right click doesn't open the link.
+My contribution was relatively small, but hopefully it makes it to production! It is a wrong action for a right click button. The code changes can be seen in the last few commits. Users will experience the right behavior when right clicking the link.
