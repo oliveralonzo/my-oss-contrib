@@ -53,4 +53,4 @@ I followed [the guide](https://github.com/collections/choosing-projects) by firs
 
 ## Code Change
 
-My contribution was relatively small, but hopefully it makes it to production! It is a wrong action for a right click button. The code changes can be seen in the last few commits. Users will experience the right behavior when right clicking the link.
+My contribution was relatively small, but it made it to production! It fixed a wrong action for a right click button. The code changes can be seen in the last few commits. Users will experience the right behavior when right clicking the link.
